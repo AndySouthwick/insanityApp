@@ -1,7 +1,7 @@
 {
-  "name": "ngCordovaBase",
+  "name": "insanityApp",
   "version": "1.0.0",
-  "description": "base install with modules for ngCordova",
+  "description": "app for tracking insanity workouts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-   "url": "https://github.com/AndySouthwick/ngCordovaBase.git"
+   "url": "https://github.com/AndySouthwick/insanityApp.git"
   }
 }
