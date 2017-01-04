@@ -1,1 +1,2 @@
-var app = angular.module('insanityApp', ['ngCordova', 'ngRoute']);
+'use strict';
+var app = angular.module('insanityApp', ['ngCordova', 'ngResource', 'ngRoute']);
